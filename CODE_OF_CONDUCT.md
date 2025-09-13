@@ -29,7 +29,7 @@ Project maintainers are responsible for clarifying and enforcing our standards o
 This Code of Conduct applies within all project spaces, and also applies when an individual is officially representing the project in public spaces.
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at **[YOUR EMAIL OR GITHUB ISSUE LINK]**.  
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at **sachinkumar.gheura@gmail.com**.  
 All complaints will be reviewed and investigated promptly and fairly.
 
 ## Enforcement Guidelines
